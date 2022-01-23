@@ -1,4 +1,9 @@
 this is my code just to save in github
 add 1more line to check how it works
 to recheck adding this line
+<<<<<<< HEAD
 44
+=======
+4
+add line
+>>>>>>> c9a6ad890b7eec7484b365126f056bad0648da86
